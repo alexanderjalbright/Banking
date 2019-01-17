@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.Tests.deps.json
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.Tests.runtimeconfig.json
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.Tests.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.Tests.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.Tests.pdb
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\bin\Debug\netcoreapp2.1\Banking.pdb
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.csproj.CopyComplete
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.dll
+C:\Users\Alex\source\repos\Banking\Banking.Tests\obj\Debug\netcoreapp2.1\Banking.Tests.pdb
